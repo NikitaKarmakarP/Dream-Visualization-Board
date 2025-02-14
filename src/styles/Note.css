@@ -1,0 +1,20 @@
+.note {
+  position: absolute;
+  background: yellow;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: grab;
+}
+
+.note textarea {
+  width: 100px;
+  height: 50px;
+  border: none;
+  background: transparent;
+}
+
+// src/styles/Home.css
+.home-container {
+  padding: 20px;
+  text-align: center;
+}
