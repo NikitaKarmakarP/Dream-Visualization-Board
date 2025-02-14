@@ -1,0 +1,11 @@
+node_modules/
+build/
+dist/
+.env
+.DS_Store
+package-lock.json
+yarn.lock
+.npm/
+coverage/
+.vscode/
+.idea/
